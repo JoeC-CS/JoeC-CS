@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoeC-CS
+- 👀 I’m interested in computer vison, NLP
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on some little machine learing projects
+- 📫 How to reach me: joeliu131@gmail.com
